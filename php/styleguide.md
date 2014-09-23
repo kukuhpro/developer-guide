@@ -484,3 +484,5 @@ $foo->bar(
     $arg3
 );
 ```
+
+[&laquo; Back to Index](../README.md)

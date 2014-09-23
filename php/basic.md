@@ -120,3 +120,5 @@ Whatever naming convention is used SHOULD be applied consistently within a reaso
 ### 4.3. Methods
 
 Method names MUST be declared in `camelCase()`.
+
+[&laquo; Back to Index](../README.md)
